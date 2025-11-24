@@ -5,6 +5,4 @@ Console.WriteLine("Yousseif");
 
 Console.WriteLine("New Line Added");
 
-Console.WriteLine("Kon Sanad Project");
-
-Console.WriteLine("Ahmed Samir");
+Console.WriteLine("soly");
